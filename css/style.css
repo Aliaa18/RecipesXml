@@ -1,0 +1,13 @@
+.hambozo{
+    height: 250px;
+}
+.home{
+    background-image: url('../images//meal-1.jpg') ;
+    min-height: 100vh;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    
+}
+.navbar .nav-link{
+    cursor: pointer;
+}
